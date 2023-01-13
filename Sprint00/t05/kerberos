@@ -1,0 +1,5 @@
+klist
+kinit `login`
+kdestroy -A
+
+
